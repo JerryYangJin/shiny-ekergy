@@ -1,7 +1,7 @@
 #!/bin/bash
 
 R_HOME="${OPENSHIFT_DATA_DIR}r"
-R_VERSION="3.1.2"
+R_VERSION="3.3.2"
 
 mkdir -p $R_HOME
 
